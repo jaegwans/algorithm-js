@@ -1,3 +1,4 @@
+//삼각형 판별
 function solution(a, b, c) {
     let answer;
     const arr = [a, b, c];

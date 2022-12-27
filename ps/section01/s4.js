@@ -1,3 +1,4 @@
+//1부터 n까지 합
 function solution(n) {
     let answer;
 

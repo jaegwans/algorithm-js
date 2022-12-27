@@ -1,3 +1,4 @@
+//최솟값
 function solution(i) {
     let answer;
 

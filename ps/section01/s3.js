@@ -1,3 +1,4 @@
+//연필 개수
 function solution(i) {
     let answer;
     let _flag = true;
