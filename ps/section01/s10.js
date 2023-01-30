@@ -1,4 +1,5 @@
 function solution(i) {
+    //문자 찾기
     let answer = i;
     let answer2 = 0;
     const second = 'R';
