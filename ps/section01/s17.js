@@ -3,7 +3,7 @@ function solution(i) {
     let answer = [];
 
     for (x of i) {
-        if (!answer.includes(x)) {
+        if (answer.includes(x)) {
             answer.push(x);
         }
     }
